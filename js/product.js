@@ -214,11 +214,11 @@ containerProduct.innerHTML = '';
 products.forEach(product => {
     containerProduct.innerHTML += '<div class="col-sm-6 col-lg-4 all '+product.categoryCode+'">'+
 '<div class="box">'+
-  '<div style="background-color: pink;">'+
-    '<div class="img-box" style="height: 400px; padding: 0px; background-color: beige;">'+
+  '<div style="background-color: #BF0A05;">'+
+    '<div class="img-box" style="height: 400px; padding: 0px;">'+
       '<img src="images/'+product.image+' " alt="">'+
     '</div>'+
-    '<div class="detail-box" style="background-color: pink; color: #8e0f0f">'+
+    '<div class="detail-box" style="background-color: #BF0A05; color: white">'+
       '<h6>'+
       product.productName+
       '</h6>'+
