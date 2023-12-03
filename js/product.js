@@ -3,13 +3,13 @@ let products = [
         productName: 'Americano (ICE)',
         productCost: '20.000',
         categoryCode: 'italy',
-        image: 'americano.JPG'
+        image: 'americano.png'
     },
     {
         productName: 'Cappucino (HOT)',
         productCost: '35.000',
         categoryCode: 'italy',
-        image: 'capuchino.PNG'
+        image: 'cappuchino.PNG'
     },
     {
         productName: 'Caramel macchiato (ICE)',
@@ -34,7 +34,7 @@ let products = [
         productName: 'England Creamy',
         productCost: '20.000',
         categoryCode: 'italy',
-        image: 'endland.JPG'
+        image: 'endland.png'
     }
     ,
     {
@@ -143,7 +143,7 @@ let products = [
         productName: 'Phindi Choco',
         productCost: '30.000',
         categoryCode: 'vietnam',
-        image: 'phindichoco.JPG'
+        image: 'phindichoco.png'
     },
     {
         productName: 'Cafe Nâu',
@@ -161,7 +161,7 @@ let products = [
         productName: 'Sinh Tố Bơ Hạnh Nhân',
         productCost: '30.000',
         categoryCode: 'sinhto',
-        image: 'bahanhnhan.JPG'
+        image: 'bohanhnhan.png'
     },
     {
         productName: 'Sinh Tố Xoài Đậu Phộng',
@@ -173,7 +173,7 @@ let products = [
         productName: 'Sinh Tố Xoài Dâu Đào',
         productCost: '35.000',
         categoryCode: 'sinhto',
-        image: 'xoaidaudao.JPG'
+        image: 'xoaidaudao.png'
     },
     {
         productName: 'Sinh Tố Sữa Chua Dâu Tây',
@@ -191,13 +191,13 @@ let products = [
         productName: 'Sữa Chua Đào Kem Cheese',
         productCost: '35.000',
         categoryCode: 'daxay',
-        image: 'suachuadaokemche.JPG'
+        image: 'suachuadaokemche.png'
     },
     {
         productName: 'Coffee Caramel Đá Xay',
         productCost: '40.000',
         categoryCode: 'daxay',
-        image: 'carameldaxay.JPG'
+        image: 'carameldaxay.png'
     },
     {
         productName: 'Bạc Hà Chocolate Đá Xay',
