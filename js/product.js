@@ -35,7 +35,43 @@ let products = [
         productCost: '20.000',
         categoryCode: 'italy',
         image: 'endland.png'
-    }
+    },
+    {
+        productName: 'Bạc Sỉu',
+        productCost: '25.000',
+        categoryCode: 'vietnam',
+        image: 'bacsiu.png'
+    },
+    {
+        productName: 'Cafe Kem Muối',
+        productCost: '30.000',
+        categoryCode: 'vietnam',
+        image: 'cafekemmuoi.PNG'
+    },
+    {
+        productName: 'Cafe Hạnh Nhân',
+        productCost: '35.000',
+        categoryCode: 'vietnam',
+        image: 'hanhnhan.png'
+    },
+    {
+        productName: 'Phindi Choco',
+        productCost: '30.000',
+        categoryCode: 'vietnam',
+        image: 'phindichoco.png'
+    },
+    {
+        productName: 'Cafe Nâu',
+        productCost: '15.000',
+        categoryCode: 'vietnam',
+        image: 'cafeden.png'
+    },
+    {
+        productName: 'Cafe Đen',
+        productCost: '15.000',
+        categoryCode: 'vietnam',
+        image: 'cafenau.png'
+    },
     ,
     {
         productName: 'Trà Đào Cam Sả',
@@ -71,7 +107,7 @@ let products = [
         productName: 'Nước Ép Chanh Vàng Bạc Hà',
         productCost: '30.000',
         categoryCode: 'nuocep',
-        image: 'chanhvangbacha.JPG'
+        image: 'changvangbacha.png'
     },
     {
         productName: 'Nước Ép Cam Dứa',
@@ -101,61 +137,25 @@ let products = [
         productName: 'Trà Ô Long Sen Sữa',
         productCost: '30.000',
         categoryCode: 'trasua',
-        image: 'olongsensua.JPG'
+        image: 'olongsensua.png'
     },
     {
         productName: 'Trà Sữa Tinh Than Tre Kem Trứng Dừa Nướng',
         productCost: '40.000',
         categoryCode: 'trasua',
-        image: 'thantretrung.JPG'
+        image: 'thantretrung.png'
     },
     {
         productName: 'Sữa Tươi Trân Châu Đường Đen Kem Trứng Dừa Nướng',
         productCost: '40.000',
         categoryCode: 'trasua',
-        image: 'chanchaukemtrung.JPG'
+        image: 'tranchaukemtrung.png'
     },
     {
         productName: 'Trà Gạo Rang Macchiato',
         productCost: '30.000',
         categoryCode: 'trasua',
         image: 'gaorangmachiato.png'
-    },
-    {
-        productName: 'Bạc Sỉu',
-        productCost: '25.000',
-        categoryCode: 'vietnam',
-        image: 'bacsiu.png'
-    },
-    {
-        productName: 'Cafe Kem Muối',
-        productCost: '30.000',
-        categoryCode: 'vietnam',
-        image: 'cafekemmuoi.PNG'
-    },
-    {
-        productName: 'Cafe Hạnh Nhân',
-        productCost: '35.000',
-        categoryCode: 'vietnam',
-        image: 'hanhnhan.png'
-    },
-    {
-        productName: 'Phindi Choco',
-        productCost: '30.000',
-        categoryCode: 'vietnam',
-        image: 'phindichoco.png'
-    },
-    {
-        productName: 'Cafe Nâu',
-        productCost: '15.000',
-        categoryCode: 'vietnam',
-        image: 'americano.JPG'
-    },
-    {
-        productName: 'Cafe Đen',
-        productCost: '15.000',
-        categoryCode: 'vietnam',
-        image: 'cafeden.png'
     },
     {
         productName: 'Sinh Tố Bơ Hạnh Nhân',
@@ -203,7 +203,7 @@ let products = [
         productName: 'Bạc Hà Chocolate Đá Xay',
         productCost: '35.000',
         categoryCode: 'daxay',
-        image: 'bachachocolate.JPG'
+        image: 'bachachocolate.png'
     }
 ]
 
