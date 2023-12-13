@@ -155,7 +155,7 @@ let products = [
         productName: 'Cafe Đen',
         productCost: '15.000',
         categoryCode: 'vietnam',
-        image: 'americano.JPG'
+        image: 'cafeden.png'
     },
     {
         productName: 'Sinh Tố Bơ Hạnh Nhân',
